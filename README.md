@@ -5,6 +5,6 @@ git clone https://github.com/Gimpely/bashrc_config.git
 ```
 Correct your path.
 ```
-echo -e "if [ -f $HOME/bashrc_shortcuts/AseAseAseAseOnUuu ]; then\n\t. $HOME/bashrc_shortcuts/AseAseAseAseOnUuu\nfi" >> ~/.bashrc
+echo -e "if [ -f $HOME/bashrc_config/AseAseAseAseOnUuu ]; then\n\t. $HOME/bashrc_config/AseAseAseAseOnUuu\nfi" >> ~/.bashrc
 source ~/.bashrc 
 ```
